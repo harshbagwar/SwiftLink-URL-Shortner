@@ -8,7 +8,7 @@ const PORT  = process.env.PORT || 3000
 
 
 
-mongoose.connect('mongodb+srv://harshbagwar123:UUnJXV0fCtHRtrta@cluster0.ass8qpd.mongodb.net/URL-shortner')
+mongoose.connect('LINK')
 
 const db = mongoose.connection;
 
